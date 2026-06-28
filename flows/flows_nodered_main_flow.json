@@ -1,0 +1,2660 @@
+[
+    {
+        "id": "tab1",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "1510ddad0e2d096b",
+        "type": "group",
+        "z": "tab1",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "mqtt1",
+            "json1",
+            "func1",
+            "4d10a88e06c76b43",
+            "4e013bdca5f3272b",
+            "fba78b9842c06712",
+            "1b574b6069476dfc",
+            "f5b491bcc2ee0669",
+            "43c91d0322f8ab8b",
+            "3b52f5a133a49499",
+            "8ada5f1a8740fa8b",
+            "d1272ca1ca757569",
+            "fdee7e63b0d3ccf4",
+            "aa4fec74493c2b95",
+            "13b40d672165eaf6",
+            "fcc77cfb414ffee0",
+            "607e7342038a8f40",
+            "679fa4d5cff1e92a",
+            "7cde77e6b851a9f8",
+            "ad522c9845a778c7",
+            "eb559bd7f61dc9a7",
+            "45fbeb5aa0e8cab6",
+            "bfbfac3fbbcb700d",
+            "14dad06dedf0ab3d"
+        ],
+        "x": -6,
+        "y": 59,
+        "w": 1132,
+        "h": 489.5
+    },
+    {
+        "id": "dd711467785475b6",
+        "type": "group",
+        "z": "tab1",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "chart1",
+            "file1",
+            "5d0bc6024bb5ca66",
+            "427b96d2d5f48300",
+            "32a7c044b9c08ae9",
+            "482c8fb9e7d74c5a",
+            "e1f0c68687a2d535",
+            "a1b9b8734b714750",
+            "7e556ff19e5f00d0",
+            "8d21dcd6880f7cf6",
+            "531133dfc5c16161",
+            "cd4304e1b821370c",
+            "86a2886ed2656228",
+            "9b08551570342377",
+            "fb37a10fa5193649",
+            "50d42cec962294c3",
+            "114eac1c78cbba22",
+            "be4260c07a810fdd",
+            "c5e1701f08084e1f",
+            "cdeaedff530ad860",
+            "677424c23e3db64a",
+            "8cb490e185951dae",
+            "e2def733bf319dfa",
+            "0124bf659302ee19",
+            "533a6504be02dc93",
+            "12fe7b3e4b8fc1e9",
+            "95e0502ce8c00622",
+            "7ad1ab81b2d7f1ab",
+            "a8a808d52a2e04f0",
+            "07289f5d1cfd0155",
+            "6be920c2ecc33260",
+            "a1416c26bf026e44"
+        ],
+        "x": 1154,
+        "y": 39,
+        "w": 1012,
+        "h": 542
+    },
+    {
+        "id": "d938aa8fdac1ae6e",
+        "type": "group",
+        "z": "tab1",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "83fb1fbdd6d10785",
+            "a83f2936eed6ea76",
+            "5cd3d3a85ef37530",
+            "5437fc6a7eab58a9",
+            "631dbeb50e92e02a",
+            "09ee50d9e92c4fac",
+            "54516f3fc25d9f8a",
+            "d1ef2ac501fde03f",
+            "7a32aec94f54f3d4",
+            "05b061e5694aaa49",
+            "4c6596a83e31f9e3",
+            "1812ef98b6733a4d",
+            "cae0ce3f38df8a5d",
+            "959a3c679ca266c9",
+            "5a3b86b38675339b",
+            "261408696a309aa4",
+            "54031ab010adc997",
+            "cf72206cf00d6359",
+            "899e2da869555d90",
+            "1f9cc43836232f1d"
+        ],
+        "x": 14,
+        "y": 599,
+        "w": 2092,
+        "h": 222
+    },
+    {
+        "id": "b8db2ce3c6194a3a",
+        "type": "group",
+        "z": "tab1",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "d10a9879c871b0ba",
+            "1ea8625e01a8b727",
+            "9a6c32c942dd9d4c",
+            "aef167e49fb55ec1",
+            "a469366a4d4f6e67",
+            "c84d41937b17a604",
+            "d384b19094b684e4",
+            "a50d9a4d37ffb564",
+            "0e9d3518f8f0882b",
+            "bf0135566de12007",
+            "9aaa93adc13225d7",
+            "052a2e40d62d058d",
+            "4874a6493b1aba79",
+            "2a33c5840b2ae702",
+            "b7337580790c3f13",
+            "e884bebd996f3786",
+            "ef046a65f116dca3",
+            "fc772b453864a623",
+            "99ced7bd0314dcc4",
+            "b9a934b56365cea6",
+            "297d4eb83806a556",
+            "35222881fab1fc23",
+            "c9faf0979fcae2af",
+            "6a97aec158fa301a",
+            "cb17aad40f83ca09",
+            "756f6bc47c32e2dd",
+            "c93ce782bbb29818"
+        ],
+        "x": 14,
+        "y": 839,
+        "w": 2012,
+        "h": 302
+    },
+    {
+        "id": "mqtt1",
+        "type": "mqtt in",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "parking/slots-sim-sec",
+        "topic": "parking/slots-sim-sec",
+        "qos": "0",
+        "datatype": "auto",
+        "broker": "broker1",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 140,
+        "y": 200,
+        "wires": [
+            [
+                "f5b491bcc2ee0669",
+                "fcc77cfb414ffee0"
+            ]
+        ]
+    },
+    {
+        "id": "json1",
+        "type": "json",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 750,
+        "y": 120,
+        "wires": [
+            [
+                "4d10a88e06c76b43",
+                "func1",
+                "7ad1ab81b2d7f1ab"
+            ]
+        ]
+    },
+    {
+        "id": "func1",
+        "type": "function",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "process",
+        "func": "// PROCESS: expects msg.payload as an object (after JSON node)\n\n// ---------- 1) Normalize input payload ----------\nvar p = msg.payload || {};\n\n// free slots (0..3)\nvar free = Number(p.free);\nif (isNaN(free)) free = 0;\nif (free < 0) free = 0;\nif (free > 3) free = 3;\n\n// occupied slots (0..3)\nvar occ = 3 - free;\nif (occ < 0) occ = 0;\nif (occ > 3) occ = 3;\n\n// timestamp (ms)\nvar ts = Date.now();\n\n// slots as bitstring (e.g., 110)\nvar slotsStr = \"\";\nif (Array.isArray(p.slots)) {\n    slotsStr = String(p.slots.join(\"\"));\n}\n\n// entrance / exit events (0/1)\nvar ent = Number(p.entrance);\nif (isNaN(ent)) ent = 0;\n\nvar ex = Number(p.exit);\nif (isNaN(ex)) ex = 0;\n\n// barrier state\nvar bar = (p.barrier !== undefined) ? String(p.barrier) : \"UNKNOWN\";\n\n// topic for classification and traceability\nvar topic = msg.topic || \"\";\n\n// ---------- 2) Scenario classification (LOCKED by topic names) ----------\nvar scenario = \"UNKNOWN\";\nif (topic.indexOf(\"slots-sim-nonsec\") >= 0) scenario = \"S1\";\nelse if (topic.indexOf(\"slots-sim-sec\") >= 0) scenario = \"S2\";\nelse if (topic.indexOf(\"slots-hw-nonsec\") >= 0) scenario = \"S3\";\nelse if (topic.indexOf(\"slots-hw-sec\") >= 0) scenario = \"S4\";\n\n// Security mode label\nvar modeText = \"UNKNOWN\";\nif (scenario === \"S1\" || scenario === \"S3\") modeText = \"NON-SECURE\";\nelse if (scenario === \"S2\" || scenario === \"S4\") modeText = \"SECURE (TLS)\";\n\n// utilization (0..1)\nvar util = occ / 3;\n\n// ---------- 3) AI latency (ms) from inference branch ----------\n// Latency is produced in the HTTP response path and stored in flow context.\n// Attach it only if it is \"fresh\" (e.g., within the last 5 seconds).\n\nvar ai_latency = -1;  // IMPORTANT: default value when inference did not occur\n\nvar lastLat = flow.get(\"last_ai_latency_ms\");\nvar lastTs = flow.get(\"last_ai_latency_ts\");\n\nif (lastLat !== undefined && lastLat !== null && lastTs !== undefined) {\n    var age = Date.now() - Number(lastTs);\n    if (!isNaN(age) && age >= 0 && age <= 5000) {   // 5s freshness window\n        ai_latency = Number(lastLat);\n        if (isNaN(ai_latency)) ai_latency = -1;\n    }\n}\n\n// ---------- 4) Attach meta object (dashboard + switch + logging) ----------\n// CSV schema (LOCKED):\n// epoch_ms,slots_bits,occ,free,entrance_event,exit_event,barrier,ai_latency_ms,scenario,mode,topic\nvar csvRow =\n    ts + \",\" +\n    slotsStr + \",\" +\n    occ + \",\" +\n    free + \",\" +\n    ent + \",\" +\n    ex + \",\" +\n    bar + \",\" +\n    ai_latency + \",\" +\n    scenario + \",\" +\n    modeText + \",\" +\n    topic;\n\nmsg.meta = {\n    scenario: scenario,\n    mode: modeText,\n    free: free,\n    occ: occ,\n    util: util,\n    ai_latency_ms: ai_latency,\n    csv: csvRow\n};\n\n// Keep these for any existing UI nodes that use msg.free/msg.occ/msg.util\nmsg.free = free;\nmsg.occ = occ;\nmsg.util = util;\n\n// Do NOT overwrite msg.payload (preserves downstream compatibility)\n\n// ---------- 5) Build Azure features (DETERMINISTIC, demo-stable) ----------\n// Model expects 6 features:\n// slot{i}_occupied_ratio, slot{i}_event_rate\n\nvar slotsArr = Array.isArray(p.slots) ? p.slots : [1, 1, 0]; // 1=FREE, 0=OCCUPIED\n\nfunction occ01(v) { return (Number(v) === 0) ? 1 : 0; } // occupied -> 1\n\nvar o1 = occ01(slotsArr[0]);\nvar o2 = occ01(slotsArr[1]);\nvar o3 = occ01(slotsArr[2]);\n\n// Use entrance/exit events as activity signals (0/1)\nvar e1 = ent;                 // entrance event\nvar e2 = ex;                  // exit event\nvar e3 = (ent || ex) ? 1 : 0; // any event\n\nmsg.features = {\n    slot1_occupied_ratio: o1,\n    slot2_occupied_ratio: o2,\n    slot3_occupied_ratio: o3,\n    slot1_event_rate: e1,\n    slot2_event_rate: e2,\n    slot3_event_rate: e3\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 2,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 980,
+        "y": 100,
+        "wires": [
+            [
+                "file1",
+                "5d0bc6024bb5ca66",
+                "32a7c044b9c08ae9",
+                "09ee50d9e92c4fac",
+                "e1f0c68687a2d535",
+                "a1b9b8734b714750",
+                "607e7342038a8f40",
+                "0124bf659302ee19"
+            ]
+        ]
+    },
+    {
+        "id": "chart1",
+        "type": "ui_chart",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "",
+        "group": "grp1",
+        "order": 1,
+        "width": "4",
+        "height": "4",
+        "label": "Num. Occupied slots (0–3)",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "msg.payload.slots",
+        "dot": true,
+        "ymin": "0",
+        "ymax": "3",
+        "removeOlder": "1",
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#000000",
+            "#000000",
+            "#000000",
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1520,
+        "y": 140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "file1",
+        "type": "file",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "Parking Telemetry Log (Latency Source)",
+        "filename": "/home/user/parking_log.csv",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": true,
+        "overwriteFile": "false",
+        "encoding": "utf8",
+        "x": 1340,
+        "y": 260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4d10a88e06c76b43",
+        "type": "debug",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "JSON OUT",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 770,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "5d0bc6024bb5ca66",
+        "type": "function",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "occ_to_payload",
+        "func": "msg.topic = \"occupied\";\nmsg.payload = Number(msg.occ ?? (3 - (msg.payload?.free ?? 0)));\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1260,
+        "y": 140,
+        "wires": [
+            [
+                "chart1"
+            ]
+        ]
+    },
+    {
+        "id": "427b96d2d5f48300",
+        "type": "ui_gauge",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "",
+        "group": "grp1",
+        "order": 2,
+        "width": "4",
+        "height": "4",
+        "gtype": "gage",
+        "title": "Available Slots",
+        "label": "slots",
+        "format": "",
+        "min": 0,
+        "max": "3",
+        "colors": [
+            "#ff0000",
+            "#e6e600",
+            "#00ff00"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 1480,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "d10a9879c871b0ba",
+        "type": "debug",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "Debug Azure Body",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 130,
+        "y": 880,
+        "wires": []
+    },
+    {
+        "id": "83fb1fbdd6d10785",
+        "type": "function",
+        "z": "tab1",
+        "g": "d938aa8fdac1ae6e",
+        "name": "Build Azure Request",
+        "func": "// Build Azure Request for deployed model expecting 6 features:\n// slot{i}_occupied_ratio, slot{i}_event_rate\n\nmsg.meta = msg.meta || {};\nconst slots = (msg.payload && Array.isArray(msg.payload.slots)) ? msg.payload.slots : [0,0,0];\n\n// ---- Sliding window state (per slot) ----\nconst W = 10; // window length (samples). keep small to reduce complexity.\nlet hist = flow.get(\"slot_hist\") || [[],[],[]];\nlet last = flow.get(\"slot_last\") || [null,null,null];\nlet flips = flow.get(\"slot_flips\") || [0,0,0];\n\nfor (let i=0; i<3; i++){\n  /// slots: 1=FREE, 0=OCCUPIED  -> occupied flag must be inverted\n  const v = (Number(slots[i]) === 1) ? 0 : 1;   // 1 = occupiedUPIED\n\n  // update flips counter\n  if (last[i] !== null && v !== last[i]) flips[i] += 1;\n  last[i] = v;\n\n  // update history\n  hist[i].push(v);\n  if (hist[i].length > W) hist[i].shift();\n}\n\n// store back\nflow.set(\"slot_hist\", hist);\nflow.set(\"slot_last\", last);\nflow.set(\"slot_flips\", flips);\n\n// occupied ratio per slot = mean of window\nfunction mean(arr){\n  if (!arr || arr.length === 0) return 0;\n  return arr.reduce((a,b)=>a+b,0)/arr.length;\n}\nconst r1 = Number(mean(hist[0]).toFixed(3));\nconst r2 = Number(mean(hist[1]).toFixed(3));\nconst r3 = Number(mean(hist[2]).toFixed(3));\n\n// event rate: flips per second (approx). Reset every second using timestamps.\nconst now = Date.now();\nconst t_prev = flow.get(\"flip_t0\") || now;\nlet dt = (now - t_prev)/1000;\nif (dt <= 0) dt = 1;\n\nlet er1 = 0, er2 = 0, er3 = 0;\nif (dt >= 1.0) {\n  er1 = Number((flips[0]/dt).toFixed(3));\n  er2 = Number((flips[1]/dt).toFixed(3));\n  er3 = Number((flips[2]/dt).toFixed(3));\n\n  // reset counter for next window\n  flow.set(\"flip_t0\", now);\n  flow.set(\"slot_flips\", [0,0,0]);\n}\n\n// Final features exactly as API expects\n  msg.features = {\n    slot1_occupied_ratio: r1,\n    slot2_occupied_ratio: r2,\n    slot3_occupied_ratio: r3,\n    slot1_event_rate: er1,\n    slot2_event_rate: er2,\n    slot3_event_rate: er3\n  };\n// Build Azure request using features created in PROCESS (msg.features)\nmsg.payload = { features: msg.features };\n\n// Build request body exactly as FastAPI expects\nmsg.headers = msg.headers || {};\nmsg.headers[\"Content-Type\"] = \"application/json\";\n\n// If you already have msg.features somewhere, adapt accordingly\nconst f = msg.features || msg.payload?.features || msg.payload || {};\n\n// Ensure payload is {features:{...}}\nmsg.payload = { features: f };\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 140,
+        "y": 640,
+        "wires": [
+            [
+                "d1ef2ac501fde03f",
+                "d10a9879c871b0ba"
+            ]
+        ]
+    },
+    {
+        "id": "a83f2936eed6ea76",
+        "type": "http request",
+        "z": "tab1",
+        "g": "d938aa8fdac1ae6e",
+        "name": "HTTPS POST /predict (Azure App Service)",
+        "method": "POST",
+        "ret": "obj",
+        "paytoqs": "body",
+        "url": "https://smartparking-fastapi-moh-dvhyc3e3cfafguhm.malaysiawest-01.azurewebsites.net/predict_named",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [
+            {
+                "keyType": "other",
+                "keyValue": "Content-Type",
+                "valueType": "other",
+                "valueValue": "application/json"
+            }
+        ],
+        "x": 730,
+        "y": 640,
+        "wires": [
+            [
+                "a469366a4d4f6e67",
+                "54516f3fc25d9f8a",
+                "a50d9a4d37ffb564"
+            ]
+        ]
+    },
+    {
+        "id": "1ea8625e01a8b727",
+        "type": "debug",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "Debug Azure Response",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 730,
+        "y": 880,
+        "wires": []
+    },
+    {
+        "id": "5cd3d3a85ef37530",
+        "type": "function",
+        "z": "tab1",
+        "g": "d938aa8fdac1ae6e",
+        "name": "Handle Azure Response",
+        "func": "// Handle Azure Response (LOCKED)\n// Parses Azure response, sets msg.ai.prediction consistently, never redeclares variables.\n\nlet r = msg.payload;\n\n// Parse if needed\nif (typeof r === \"string\") {\n    try { r = JSON.parse(r); } catch(e) { r = {}; }\n}\nif (!r || typeof r !== \"object\") r = {};\n\nmsg.ai = msg.ai || {};\n\n// If API returns {\"detail\":\"Not Found\"} or validation error\nif (r.detail) {\n    msg.ai.prediction = \"AI_ERR\";\n    msg.ai.recommendation = \"Cloud AI unavailable. Using sensor-only status.\";\n    msg.ai.raw = r;\n    return msg;\n}\n\n// Normal success path\nmsg.ai.prediction = (r.prediction !== undefined) ? String(r.prediction).toUpperCase() : \"UNKNOWN\";\nmsg.ai.probabilities = r.probabilities || {};\nmsg.ai.utilization = (r.utilization !== undefined) ? r.utilization : undefined;\nmsg.ai.raw = r;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1070,
+        "y": 700,
+        "wires": [
+            [
+                "1ea8625e01a8b727",
+                "9a6c32c942dd9d4c",
+                "899e2da869555d90",
+                "1f9cc43836232f1d"
+            ]
+        ]
+    },
+    {
+        "id": "5437fc6a7eab58a9",
+        "type": "ui_text",
+        "z": "tab1",
+        "g": "d938aa8fdac1ae6e",
+        "group": "083ed53a107de782",
+        "order": 3,
+        "width": "4",
+        "height": "2",
+        "name": "",
+        "label": "AI Status text",
+        "format": "{{msg.ai.prediction}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 2010,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "631dbeb50e92e02a",
+        "type": "ui_text",
+        "z": "tab1",
+        "g": "d938aa8fdac1ae6e",
+        "group": "083ed53a107de782",
+        "order": 4,
+        "width": "4",
+        "height": "2",
+        "name": "",
+        "label": "Recommendation text",
+        "format": "{{msg.ai.recommendation}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1980,
+        "y": 680,
+        "wires": []
+    },
+    {
+        "id": "9a6c32c942dd9d4c",
+        "type": "function",
+        "z": "tab1",
+        "d": true,
+        "g": "b8db2ce3c6194a3a",
+        "name": "Format AI Prediction Log Line",
+        "func": "// Prediction / AI behavior log (NOT timing)\n\nconst s = msg.azure_summary || {};\nconst now = new Date().toISOString();\n\n// CSV columns:\n// timestamp, lot_id, total_free, total_occupied, slots_count,\n// utilization_pct, status, recommendation\nconst line = [\n  now,\n  s.lot_id ?? \"\",\n  s.total_free ?? \"\",\n  s.total_occupied ?? \"\",\n  s.slots_count ?? \"\",\n  s.utilization_pct ?? \"\",\n  s.status ?? \"\",\n  '\"' + String(s.recommendation ?? \"\").replace(/\"/g, '\"\"') + '\"'\n].join(\",\") + \"\\n\";\n\nmsg.payload = line;\nreturn msg;\n\n\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1050,
+        "y": 880,
+        "wires": [
+            [
+                "aef167e49fb55ec1"
+            ]
+        ]
+    },
+    {
+        "id": "aef167e49fb55ec1",
+        "type": "file",
+        "z": "tab1",
+        "d": true,
+        "g": "b8db2ce3c6194a3a",
+        "name": "AI Inference Log (Prediction & Timing) ai_prediction",
+        "filename": "/home/user/ai_prediction_log.csv",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "utf8",
+        "x": 1030,
+        "y": 940,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a469366a4d4f6e67",
+        "type": "debug",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "AFTER AZURE",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 380,
+        "y": 920,
+        "wires": []
+    },
+    {
+        "id": "32a7c044b9c08ae9",
+        "type": "function",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "Build Training Row",
+        "func": "// Append-only training row for the SAME 6 features Azure expects\n\nconst f = msg.features || {};\nconst util = Number(msg.util ?? msg.meta?.util ?? 0);\n\n// label from utilization (your rule)\nlet label = \"NORMAL\";\nif (util >= 0.8) label = \"CRITICAL\";\nelse if (util >= 0.5) label = \"BUSY\";\n\n// CSV columns in order expected by retrain script\n// timestamp, slot1_occ_ratio, slot2_occ_ratio, slot3_occ_ratio, slot1_event_rate, slot2_event_rate, slot3_event_rate, label\nmsg.payload = [\n  new Date().toISOString(),\n  Number(f.slot1_occupied_ratio ?? 0),\n  Number(f.slot2_occupied_ratio ?? 0),\n  Number(f.slot3_occupied_ratio ?? 0),\n  Number(f.slot1_event_rate ?? 0),\n  Number(f.slot2_event_rate ?? 0),\n  Number(f.slot3_event_rate ?? 0),\n  label\n].join(\",\") + \"\\n\";\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 1,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1270,
+        "y": 80,
+        "wires": [
+            [
+                "482c8fb9e7d74c5a"
+            ]
+        ]
+    },
+    {
+        "id": "482c8fb9e7d74c5a",
+        "type": "file",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "/home/user/training_logs/parking_training_log.csv",
+        "filename": "/home/user/training_logs/parking_training_log_features.csv",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "utf8",
+        "x": 1590,
+        "y": 80,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fc7014e25c9cbd35",
+        "type": "comment",
+        "z": "tab1",
+        "name": "MQTT Data Ingestion ",
+        "info": "",
+        "x": 100,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "6667ed21d6baec25",
+        "type": "comment",
+        "z": "tab1",
+        "name": "Local Processing, Visualisation & Logging",
+        "info": "",
+        "x": 1320,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "b41f1effe7fa1fd4",
+        "type": "comment",
+        "z": "tab1",
+        "name": "Cloud AI Inference (HTTPS /Predict, TLS)",
+        "info": "",
+        "x": 180,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "4819ce40089518c5",
+        "type": "comment",
+        "z": "tab1",
+        "name": "Metrics, Debugging & Experiment Logs",
+        "info": "",
+        "x": 170,
+        "y": 1140,
+        "wires": []
+    },
+    {
+        "id": "4e013bdca5f3272b",
+        "type": "mqtt in",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "parking/slots-sim-nonsec",
+        "topic": "parking/slots-sim-nonsec",
+        "qos": "0",
+        "datatype": "auto",
+        "broker": "9bab2561ef079905",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 150,
+        "y": 140,
+        "wires": [
+            [
+                "f5b491bcc2ee0669",
+                "fcc77cfb414ffee0"
+            ]
+        ]
+    },
+    {
+        "id": "09ee50d9e92c4fac",
+        "type": "function",
+        "z": "tab1",
+        "g": "d938aa8fdac1ae6e",
+        "name": "Start Timer + Tag Mode",
+        "func": "msg.meta = msg.meta || {};\nmsg.meta.t0 = Date.now(); // start time in ms\n\nconst t = (msg.topic || \"\").toLowerCase();\nif (t.includes(\"nonsec\")) msg.meta.mode = \"nonsecure\";\nelse if (t.includes(\"sec\")) msg.meta.mode = \"secure\";\nelse msg.meta.mode = \"unknown\";\nreturn msg;\n\n// Ground-truth snapshot\nmsg.meta.gt_occ = (typeof msg.occ === \"number\") ? msg.occ : null;\nmsg.meta.gt_free = (typeof msg.free === \"number\") ? msg.free : null;\n\nmsg.meta.run_id = flow.get(\"run_id\") || (\"run_\" + new Date().toISOString().slice(0, 10));\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 150,
+        "y": 720,
+        "wires": [
+            [
+                "83fb1fbdd6d10785",
+                "1812ef98b6733a4d"
+            ]
+        ]
+    },
+    {
+        "id": "54516f3fc25d9f8a",
+        "type": "function",
+        "z": "tab1",
+        "g": "d938aa8fdac1ae6e",
+        "name": "Stop Timer + Build Log Record",
+        "func": "// Stop Timer + Build Log Record (AFTER HTTP response)\n\nmsg.meta = msg.meta || {};\nmsg.meta.t1 = Date.now();\nmsg.meta.latency_ms = (msg.meta.t0) ? (msg.meta.t1 - msg.meta.t0) : null;\n\n// Normalize name used by metrics logger\nmsg.meta.ai_latency_ms = msg.meta.latency_ms;\n\n// Store latest AI latency globally for metrics CSV\nflow.set(\"last_ai_latency_ms\", msg.meta.ai_latency_ms);\nflow.set(\"last_ai_latency_ts\", Date.now());\n\nconst ts = new Date(msg.meta.t1).toISOString();\n\n// HTTP status\nconst sc = msg.statusCode || \"\";\n\n// Response JSON from Azure\nconst resp = msg.payload || {};\n\n// Adapt these keys to your FastAPI response\nconst prediction = (resp.prediction !== undefined) ? resp.prediction : \"\";\nconst probs = (resp.probabilities !== undefined) ? JSON.stringify(resp.probabilities) : \"\";\nconst recommendation = (resp.recommendation !== undefined) ? String(resp.recommendation) : \"\";\n\n// (A) Inference timing CSV (optional, separate log file)\nmsg.ai_inference_csv = [\n  ts,\n  msg.meta.run_id || \"\",\n  msg.meta.mode || \"\",\n  sc,\n  msg.meta.latency_ms ?? \"\",\n  msg.meta.gt_occ ?? \"\",\n  msg.meta.gt_free ?? \"\",\n  prediction\n].join(\",\");\n\n// (B) Prediction CSV (optional)\nmsg.ai_prediction_csv = [\n  ts,\n  msg.meta.run_id || \"\",\n  msg.meta.mode || \"\",\n  prediction,\n  '\"' + recommendation.replace(/\"/g,'\"\"') + '\"',\n  '\"' + probs.replace(/\"/g,'\"\"') + '\"'\n].join(\",\");\n\n// End-to-End latency\nif (msg.meta.e2e_t0) {\n  msg.meta.e2e_latency_ms = msg.meta.t1 - msg.meta.e2e_t0;\n} else {\n  msg.meta.e2e_latency_ms = null;\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1110,
+        "y": 640,
+        "wires": [
+            [
+                "5cd3d3a85ef37530",
+                "c84d41937b17a604",
+                "d384b19094b684e4",
+                "bf0135566de12007",
+                "4874a6493b1aba79",
+                "2a33c5840b2ae702",
+                "959a3c679ca266c9",
+                "12fe7b3e4b8fc1e9"
+            ]
+        ]
+    },
+    {
+        "id": "d1ef2ac501fde03f",
+        "type": "function",
+        "z": "tab1",
+        "g": "d938aa8fdac1ae6e",
+        "name": "Set Headers (API Key)",
+        "func": "msg.headers = msg.headers || {};\nmsg.headers[\"Content-Type\"] = \"application/json\";\nmsg.headers[\"x-api-key\"] = \"StrongPass123\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 440,
+        "y": 680,
+        "wires": [
+            [
+                "7a32aec94f54f3d4"
+            ]
+        ]
+    },
+    {
+        "id": "c84d41937b17a604",
+        "type": "function",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "Format Inference Timing Log",
+        "func": "msg.payload = \"timestamp,run_id,mode,statusCode,latency_ms,gt_occ,gt_free,prediction\\n\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1380,
+        "y": 940,
+        "wires": [
+            [
+                "9aaa93adc13225d7",
+                "99ced7bd0314dcc4"
+            ]
+        ]
+    },
+    {
+        "id": "d384b19094b684e4",
+        "type": "debug",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "debug Stop Timer + Build Log Record",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1410,
+        "y": 880,
+        "wires": []
+    },
+    {
+        "id": "7a32aec94f54f3d4",
+        "type": "delay",
+        "z": "tab1",
+        "g": "d938aa8fdac1ae6e",
+        "name": "",
+        "pauseType": "rate",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": true,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 410,
+        "y": 640,
+        "wires": [
+            [
+                "a83f2936eed6ea76",
+                "35222881fab1fc23"
+            ]
+        ]
+    },
+    {
+        "id": "a50d9a4d37ffb564",
+        "type": "function",
+        "z": "tab1",
+        "d": true,
+        "g": "b8db2ce3c6194a3a",
+        "name": "Compact-debug",
+        "func": "msg.debug_line = {\n  statusCode: msg.statusCode,\n  responseUrl: msg.responseUrl,\n  payload: msg.payload\n};\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 380,
+        "y": 960,
+        "wires": [
+            [
+                "0e9d3518f8f0882b"
+            ]
+        ]
+    },
+    {
+        "id": "0e9d3518f8f0882b",
+        "type": "debug",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "debug_line",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "debug_line",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 590,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "bf0135566de12007",
+        "type": "function",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "Format Prediction Log",
+        "func": "msg.payload = msg.ai_prediction_csv + \"\\n\";\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1360,
+        "y": 1040,
+        "wires": [
+            [
+                "052a2e40d62d058d"
+            ]
+        ]
+    },
+    {
+        "id": "9aaa93adc13225d7",
+        "type": "file",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "AI Inference Log (Prediction & Timing) ai_inference",
+        "filename": "/home/user/ai_inference_log.csv",
+        "filenameType": "str",
+        "appendNewline": false,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "utf8",
+        "x": 1450,
+        "y": 980,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "052a2e40d62d058d",
+        "type": "file",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "AI Inference Log (ai_prediction_log)",
+        "filename": "/home/user/ai_prediction_log.csv",
+        "filenameType": "str",
+        "appendNewline": false,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "utf8",
+        "x": 1400,
+        "y": 1080,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4874a6493b1aba79",
+        "type": "debug",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "Debug (Inference line)",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "msg.ai_inference_csv",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1820,
+        "y": 880,
+        "wires": []
+    },
+    {
+        "id": "2a33c5840b2ae702",
+        "type": "debug",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "Debug  (Prediction line)",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "msg.ai_prediction_csv",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1820,
+        "y": 980,
+        "wires": []
+    },
+    {
+        "id": "b7337580790c3f13",
+        "type": "inject",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "Init CSV Headers",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "timestamp,run_id,mode,statusCode,latency_ms,gt_occ,gt_free,prediction\\n",
+        "payloadType": "flow",
+        "x": 210,
+        "y": 1020,
+        "wires": [
+            [
+                "b9a934b56365cea6"
+            ]
+        ]
+    },
+    {
+        "id": "e884bebd996f3786",
+        "type": "file",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "Write Header (overwrite) ai_inference",
+        "filename": "/home/user/ai_inference_log.csv",
+        "filenameType": "str",
+        "appendNewline": false,
+        "createDir": false,
+        "overwriteFile": "true",
+        "encoding": "utf8",
+        "x": 690,
+        "y": 1020,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ef046a65f116dca3",
+        "type": "inject",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "Init CSV Headers",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "timestamp,run_id,mode,statusCode,latency_ms,gt_occ,gt_free,prediction\\n",
+        "payloadType": "str",
+        "x": 210,
+        "y": 1060,
+        "wires": [
+            [
+                "297d4eb83806a556"
+            ]
+        ]
+    },
+    {
+        "id": "fc772b453864a623",
+        "type": "file",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "Write Header (overwrite) ai_prediction",
+        "filename": "/home/user/ai_prediction_log.csv",
+        "filenameType": "str",
+        "appendNewline": false,
+        "createDir": false,
+        "overwriteFile": "true",
+        "encoding": "utf8",
+        "x": 710,
+        "y": 1060,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "99ced7bd0314dcc4",
+        "type": "debug",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "Debug  (Inference line) payload",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1850,
+        "y": 920,
+        "wires": []
+    },
+    {
+        "id": "b9a934b56365cea6",
+        "type": "function",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "Function(Header)",
+        "func": "msg.payload = \"timestamp,run_id,mode,statusCode,latency_ms,gt_occ,gt_free,prediction\\n\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 1020,
+        "wires": [
+            [
+                "e884bebd996f3786"
+            ]
+        ]
+    },
+    {
+        "id": "297d4eb83806a556",
+        "type": "function",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "Function(Header)",
+        "func": "msg.payload = \"timestamp,run_id,mode,prediction,recommendation,probabilities\\n\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 1060,
+        "wires": [
+            [
+                "fc772b453864a623"
+            ]
+        ]
+    },
+    {
+        "id": "fba78b9842c06712",
+        "type": "mqtt in",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "parking/slots-hw-sec",
+        "topic": "parking/slots-hw-sec",
+        "qos": "0",
+        "datatype": "auto",
+        "broker": "3df3b8eeb704c6cb",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 130,
+        "y": 320,
+        "wires": [
+            [
+                "f5b491bcc2ee0669",
+                "fcc77cfb414ffee0"
+            ]
+        ]
+    },
+    {
+        "id": "1b574b6069476dfc",
+        "type": "mqtt in",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "parking/slots-hw-nonsec",
+        "topic": "parking/slots-hw-nonsec",
+        "qos": "0",
+        "datatype": "auto",
+        "broker": "ebc599c0e04f75b9",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 150,
+        "y": 260,
+        "wires": [
+            [
+                "f5b491bcc2ee0669",
+                "fcc77cfb414ffee0"
+            ]
+        ]
+    },
+    {
+        "id": "f5b491bcc2ee0669",
+        "type": "function",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "Mode tagging",
+        "func": "const t = msg.topic || \"\";\n\nlet scenario = \"UNK\";\nif (t.includes(\"sim-nonsec\")) scenario = \"S1\";\nelse if (t.includes(\"sim-sec\")) scenario = \"S2\";\nelse if (t.includes(\"hw-nonsec\")) scenario = \"S3\";\nelse if (t.includes(\"hw-sec\")) scenario = \"S4\";\n\nmsg.meta = msg.meta || {};\nmsg.meta.scenario = scenario;\nmsg.meta.mode = (scenario === \"S2\" || scenario === \"S4\") ? \"SECURE (TLS)\" : \"NON-SECURE\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 440,
+        "y": 160,
+        "wires": [
+            [
+                "43c91d0322f8ab8b",
+                "7cde77e6b851a9f8",
+                "8d21dcd6880f7cf6",
+                "c5e1701f08084e1f"
+            ]
+        ]
+    },
+    {
+        "id": "43c91d0322f8ab8b",
+        "type": "function",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "Scenario Gate",
+        "func": "const active = flow.get(\"activeScenario\") || \"ALL\";\nconst s = (msg.meta && msg.meta.scenario) ? msg.meta.scenario : \"UNK\";\n\n// show live status so we know gate is receiving messages\nnode.status({fill:\"blue\",shape:\"dot\",text:`active=${active} got=${s}`});\n\n// If you want to *debug* without dropping anything, set PASS_ALL=true\nconst PASS_ALL = false;\n\nif (!PASS_ALL) {\n  if (active !== \"ALL\" && s !== active) return null;\n}\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 460,
+        "y": 260,
+        "wires": [
+            [
+                "86a2886ed2656228",
+                "9b08551570342377",
+                "679fa4d5cff1e92a",
+                "114eac1c78cbba22",
+                "ad522c9845a778c7"
+            ]
+        ]
+    },
+    {
+        "id": "3b52f5a133a49499",
+        "type": "function",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "Set Scenario",
+        "func": "// Expect msg.payload to be like: \"S1\", \"S2\", \"S3\", \"S4\", or \"ALL\"\n// If your inject nodes are not sending that yet, fix inject payload (next step).\n\nconst s = String(msg.payload || \"ALL\").trim().toUpperCase();\n\nflow.set(\"activeScenario\", s);\n\n// show selected scenario on the node (helps debugging)\nnode.status({fill:\"green\", shape:\"dot\", text:`activeScenario=${s}`});\n\n// IMPORTANT: do not forward this message to any file/log nodes\nreturn null;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 650,
+        "y": 420,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8ada5f1a8740fa8b",
+        "type": "inject",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "S1 sim-nonsec",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "S1",
+        "payloadType": "str",
+        "x": 360,
+        "y": 360,
+        "wires": [
+            [
+                "3b52f5a133a49499"
+            ]
+        ]
+    },
+    {
+        "id": "fdee7e63b0d3ccf4",
+        "type": "inject",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "S2 sim-sec",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "S2",
+        "payloadType": "str",
+        "x": 540,
+        "y": 360,
+        "wires": [
+            [
+                "3b52f5a133a49499"
+            ]
+        ]
+    },
+    {
+        "id": "d1272ca1ca757569",
+        "type": "inject",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "S3 hw-nonsec",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "S3",
+        "payloadType": "str",
+        "x": 710,
+        "y": 360,
+        "wires": [
+            [
+                "3b52f5a133a49499"
+            ]
+        ]
+    },
+    {
+        "id": "aa4fec74493c2b95",
+        "type": "inject",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "S4 hw-sec",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "S4",
+        "payloadType": "str",
+        "x": 880,
+        "y": 360,
+        "wires": [
+            [
+                "3b52f5a133a49499"
+            ]
+        ]
+    },
+    {
+        "id": "13b40d672165eaf6",
+        "type": "inject",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "ALL",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "ALL",
+        "payloadType": "str",
+        "x": 1050,
+        "y": 360,
+        "wires": [
+            [
+                "3b52f5a133a49499"
+            ]
+        ]
+    },
+    {
+        "id": "cd4304e1b821370c",
+        "type": "ui_text",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "group": "3c0d4601010d3d81",
+        "order": 1,
+        "width": "4",
+        "height": "3",
+        "name": "",
+        "label": "Security Mode text",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1510,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "e1f0c68687a2d535",
+        "type": "function",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "free_to_payload",
+        "func": "msg.payload = Number(msg.free ?? msg.payload?.free ?? 0);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1260,
+        "y": 180,
+        "wires": [
+            [
+                "427b96d2d5f48300"
+            ]
+        ]
+    },
+    {
+        "id": "a1b9b8734b714750",
+        "type": "function",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "util_to_payload",
+        "func": "const occ = 3 - Number(msg.payload.free);\nmsg.payload = (occ / 3) * 100;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1260,
+        "y": 220,
+        "wires": [
+            [
+                "7e556ff19e5f00d0"
+            ]
+        ]
+    },
+    {
+        "id": "7e556ff19e5f00d0",
+        "type": "ui_gauge",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "",
+        "group": "169f8235595f80aa",
+        "order": 5,
+        "width": "4",
+        "height": "3",
+        "gtype": "gage",
+        "title": "Utilization",
+        "label": "units",
+        "format": "",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 1460,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "86a2886ed2656228",
+        "type": "function",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "mode_to_payload",
+        "func": "// Prefer topic-based detection (most reliable)\n// Fallback to meta/payload if topic doesn't encode it\n\nconst topic = (msg.topic || \"\").toLowerCase();\nconst metaMode = (msg.meta?.mode || \"\").toString().toLowerCase();\nconst payloadMode = (msg.payload?.mode || msg.payload?.security || \"\").toString().toLowerCase();\n\nfunction isSecure(s) {\n    return s.includes(\"sec\") && !s.includes(\"non\");\n}\nfunction isNonSecure(s) {\n    return s.includes(\"non\") || s.includes(\"plain\") || s.includes(\"1883\");\n}\n\n// 1) Detect from topic (preferred)\nlet secure = false;\nlet nonsecure = false;\n\nif (topic) {\n    secure = isSecure(topic);\n    nonsecure = isNonSecure(topic) || topic.includes(\"nonsec\") || topic.includes(\"non-sec\");\n}\n\n// 2) Fallback to meta/payload\nif (!secure && !nonsecure) {\n    secure = isSecure(metaMode) || isSecure(payloadMode);\n    nonsecure = isNonSecure(metaMode) || isNonSecure(payloadMode);\n}\n\n// 3) Format output\nif (secure) {\n    msg.payload = \"🔒 SECURE (TLS)\";\n} else if (nonsecure) {\n    msg.payload = \"🔓 NON-SECURE\";\n} else {\n    msg.payload = \"UNKNOWN\";\n}\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1270,
+        "y": 340,
+        "wires": [
+            [
+                "cd4304e1b821370c"
+            ]
+        ]
+    },
+    {
+        "id": "05b061e5694aaa49",
+        "type": "function",
+        "z": "tab1",
+        "g": "d938aa8fdac1ae6e",
+        "name": "ai_status_to_payload",
+        "func": "msg.payload = msg.ai?.prediction ?? \"UNKNOWN\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1800,
+        "y": 640,
+        "wires": [
+            [
+                "5437fc6a7eab58a9"
+            ]
+        ]
+    },
+    {
+        "id": "4c6596a83e31f9e3",
+        "type": "function",
+        "z": "tab1",
+        "g": "d938aa8fdac1ae6e",
+        "name": "ai_rec_to_payload",
+        "func": "msg.payload = msg.ai?.recommendation ?? \"\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1770,
+        "y": 680,
+        "wires": [
+            [
+                "631dbeb50e92e02a"
+            ]
+        ]
+    },
+    {
+        "id": "1812ef98b6733a4d",
+        "type": "function",
+        "z": "tab1",
+        "g": "d938aa8fdac1ae6e",
+        "name": "Scenario Gate",
+        "func": "msg.payload = msg.meta?.scenario || flow.get(\"active_scenario\") || \"unknown\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 420,
+        "y": 740,
+        "wires": [
+            [
+                "cae0ce3f38df8a5d"
+            ]
+        ]
+    },
+    {
+        "id": "cae0ce3f38df8a5d",
+        "type": "ui_text",
+        "z": "tab1",
+        "g": "d938aa8fdac1ae6e",
+        "group": "169f8235595f80aa",
+        "order": 1,
+        "width": "4",
+        "height": "2",
+        "name": "",
+        "label": "Scenario text",
+        "format": "{{msg.meta.scenario}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 590,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "959a3c679ca266c9",
+        "type": "function",
+        "z": "tab1",
+        "g": "d938aa8fdac1ae6e",
+        "name": "latency_to_payload",
+        "func": "msg.payload = (msg.meta && msg.meta.latency_ms != null) ? msg.meta.latency_ms : \"\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1710,
+        "y": 720,
+        "wires": [
+            [
+                "5a3b86b38675339b"
+            ]
+        ]
+    },
+    {
+        "id": "5a3b86b38675339b",
+        "type": "ui_text",
+        "z": "tab1",
+        "g": "d938aa8fdac1ae6e",
+        "group": "169f8235595f80aa",
+        "order": 3,
+        "width": "4",
+        "height": "2",
+        "name": "",
+        "label": "Cloud AI Inference Latency (ms)",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "15",
+        "color": "#000000",
+        "x": 1950,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "9b08551570342377",
+        "type": "function",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "rate counter",
+        "func": "const now = Date.now();\nconst sec = Math.floor(now / 1000);\nconst scenario = msg.meta?.scenario || \"UNK\";\nconst key = scenario + \":\" + sec;\n\nconst lastKey = flow.get(\"tp_key\");\nlet count = flow.get(\"tp_count\") || 0;\n\n// new second started\nif (key !== lastKey) {\n  // before reset, log the previous second if it exists\n  const prevScenario = (lastKey || \"\").split(\":\")[0];\n  const prevSec = parseInt((lastKey || \"0:0\").split(\":\")[1] || \"0\", 10);\n  const prevCount = count;\n\n  flow.set(\"tp_key\", key);\n  flow.set(\"tp_count\", 1);\n  msg.tp_mps = 1;\n\n  // emit log for previous second (skip first time)\n  if (lastKey) {\n    const ts = new Date(prevSec * 1000).toISOString();\n    const deployment = (prevScenario === \"S1\" || prevScenario === \"S2\") ? \"simulation\" : \"hardware\";\n    const security = (prevScenario === \"S2\" || prevScenario === \"S4\") ? \"tls\" : \"nonsec\";\n\n    const logMsg = {\n      payload: {\n        timestamp: ts,\n        scenario: prevScenario,\n        deployment,\n        security,\n        msg_rate: prevCount\n      }\n    };\n    return [msg, logMsg];\n  }\n  return [msg, null];\n}\n\n// same second continues\ncount += 1;\nflow.set(\"tp_count\", count);\nmsg.tp_mps = count;\nreturn [msg, null];\n",
+        "outputs": 2,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1250,
+        "y": 460,
+        "wires": [
+            [
+                "50d42cec962294c3"
+            ],
+            [
+                "6be920c2ecc33260"
+            ]
+        ]
+    },
+    {
+        "id": "fb37a10fa5193649",
+        "type": "ui_text",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "group": "169f8235595f80aa",
+        "order": 4,
+        "width": "4",
+        "height": "1",
+        "name": "",
+        "label": "MQTT Throughput (msg/s)",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "15",
+        "color": "#000000",
+        "x": 1680,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "50d42cec962294c3",
+        "type": "function",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "tp_to_payload",
+        "func": "msg.payload = msg.tp_mps ?? 0;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1460,
+        "y": 460,
+        "wires": [
+            [
+                "fb37a10fa5193649"
+            ]
+        ]
+    },
+    {
+        "id": "fcc77cfb414ffee0",
+        "type": "debug",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "RAW MQTT",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 130,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "607e7342038a8f40",
+        "type": "debug",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "PROCESS OUT",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 980,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "35222881fab1fc23",
+        "type": "debug",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "BEFORE AZURE",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 390,
+        "y": 880,
+        "wires": []
+    },
+    {
+        "id": "679fa4d5cff1e92a",
+        "type": "debug",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "Gate OUT",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 450,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "7cde77e6b851a9f8",
+        "type": "debug",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "MODE TAG OUT",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 450,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "114eac1c78cbba22",
+        "type": "function",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "scenario_label_to_payload",
+        "func": "// Build a friendly label for dashboard (still keep S1..S4 for experiments)\nconst s = msg.meta?.scenario || \"UNK\";\n\nlet label = \"UNKNOWN\";\nif (s === \"S1\") label = \"S1 (SIM, NON-SECURE)\";\nelse if (s === \"S2\") label = \"S2 (SIM, SECURE/TLS)\";\nelse if (s === \"S3\") label = \"S3 (HW, NON-SECURE)\";\nelse if (s === \"S4\") label = \"S4 (HW, SECURE/TLS)\";\nelse if (s === \"ALL\") label = \"ALL (no gating)\";\n\nmsg.payload = label;\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1300,
+        "y": 380,
+        "wires": [
+            [
+                "be4260c07a810fdd"
+            ]
+        ]
+    },
+    {
+        "id": "be4260c07a810fdd",
+        "type": "ui_text",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "group": "169f8235595f80aa",
+        "order": 2,
+        "width": "4",
+        "height": "1",
+        "name": "",
+        "label": "Scenario Label",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1540,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "8d21dcd6880f7cf6",
+        "type": "function",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "tls_status_to_payload",
+        "func": "const s = msg.meta?.scenario || \"UNK\";\nconst isSecure = (s === \"S2\" || s === \"S4\");\n\nif (!isSecure) {\n  msg.payload = \"TLS: OFF (no certificate)\";\n  return msg;\n}\n\n// Use accurate wording: CA is used by the MQTT client when TLS is enabled\nmsg.payload = \"TLS: ON (CA certificate configured)\";\nreturn msg;\n\n\nconst scenario = msg.meta?.scenario || \"UNK\";\n\nlet text = \"TLS: UNKNOWN\";\n\nif (scenario === \"S1\" || scenario === \"S3\") {\n    text = \"TLS: OFF (no certificate)\";\n}\nelse if (scenario === \"S2\" || scenario === \"S4\") {\n    text = \"TLS: ON (CA certificate configured)\";\n}\n\nmsg.payload = text;\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1280,
+        "y": 300,
+        "wires": [
+            [
+                "531133dfc5c16161"
+            ]
+        ]
+    },
+    {
+        "id": "531133dfc5c16161",
+        "type": "ui_text",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "group": "3c0d4601010d3d81",
+        "order": 3,
+        "width": "4",
+        "height": "3",
+        "name": "",
+        "label": "TLS Auth Status",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1500,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "c5e1701f08084e1f",
+        "type": "function",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "port_to_payload",
+        "func": "const scenario = msg.meta?.scenario || \"UNK\";\n\nlet text = \"Port: UNKNOWN\";\n\nif (scenario === \"S1\" || scenario === \"S3\") {\n    text = \"Port: 1883 (MQTT)\";\n}\nelse if (scenario === \"S2\" || scenario === \"S4\") {\n    text = \"Port: 8883 (MQTT over TLS)\";\n}\n\nmsg.payload = text;\nreturn msg;\n\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1260,
+        "y": 420,
+        "wires": [
+            [
+                "cdeaedff530ad860"
+            ]
+        ]
+    },
+    {
+        "id": "cdeaedff530ad860",
+        "type": "ui_text",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "group": "3c0d4601010d3d81",
+        "order": 2,
+        "width": "4",
+        "height": "3",
+        "name": "",
+        "label": "MQTT Port",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1530,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "677424c23e3db64a",
+        "type": "file",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "metrics_sim_S2.csv",
+        "filename": "/home/user/evidence/logs/metrics_sim_S2.csv",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "utf8",
+        "x": 2020,
+        "y": 280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8cb490e185951dae",
+        "type": "file",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "metrics_hw_S3.csv",
+        "filename": "/home/user/evidence/logs/metrics_hw_S3.csv",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "utf8",
+        "x": 2010,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e2def733bf319dfa",
+        "type": "file",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "metrics_hw_S4.csv",
+        "filename": "/home/user/evidence/logs/metrics_hw_S4.csv",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "utf8",
+        "x": 2010,
+        "y": 360,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0124bf659302ee19",
+        "type": "function",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "All CSV file function (S1–S4 router)",
+        "func": "// All CSV file function (S1–S4 router)\n// Purpose:\n//  - ensure msg.meta.csv exists (created in PROCESS)\n//  - route each message to exactly one output based on msg.meta.scenario\n//  - set msg.payload to the CSV line for File nodes\n\nif (!msg.meta || !msg.meta.csv) return [null, null, null, null];\n\nvar sc = (msg.meta.scenario !== undefined) ? String(msg.meta.scenario).trim() : \"UNKNOWN\";\n\n// payload must be the line written by File node\nmsg.payload = msg.meta.csv;\n\n// Route to one output only\nswitch (sc) {\n    case \"S1\":\n        return [msg, null, null, null];\n    case \"S2\":\n        return [null, msg, null, null];\n    case \"S3\":\n        return [null, null, msg, null];\n    case \"S4\":\n        return [null, null, null, msg];\n    default:\n        // Unknown scenario -> drop (or route to S1 if you want, but dropping is cleaner)\n        return [null, null, null, null];\n}\n",
+        "outputs": 4,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1980,
+        "y": 100,
+        "wires": [
+            [
+                "533a6504be02dc93"
+            ],
+            [
+                "677424c23e3db64a"
+            ],
+            [
+                "8cb490e185951dae"
+            ],
+            [
+                "e2def733bf319dfa"
+            ]
+        ]
+    },
+    {
+        "id": "533a6504be02dc93",
+        "type": "file",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "metrics_sim_S1.csv",
+        "filename": "/home/user/evidence/logs/metrics_sim_S1.csv",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "utf8",
+        "x": 2020,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c9faf0979fcae2af",
+        "type": "catch",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "Catch HTTP Request",
+        "scope": [
+            "a83f2936eed6ea76"
+        ],
+        "uncaught": false,
+        "x": 1040,
+        "y": 980,
+        "wires": [
+            [
+                "6a97aec158fa301a"
+            ]
+        ]
+    },
+    {
+        "id": "6a97aec158fa301a",
+        "type": "debug",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "Debug Catch HTTP Request",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1060,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "cb17aad40f83ca09",
+        "type": "status",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "Status HTTP Request",
+        "scope": [
+            "a83f2936eed6ea76"
+        ],
+        "x": 1040,
+        "y": 1060,
+        "wires": [
+            [
+                "756f6bc47c32e2dd"
+            ]
+        ]
+    },
+    {
+        "id": "756f6bc47c32e2dd",
+        "type": "debug",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "Debug Status HTTP Request",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1060,
+        "y": 1100,
+        "wires": []
+    },
+    {
+        "id": "12fe7b3e4b8fc1e9",
+        "type": "function",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "AI Latency Tap (flow write)",
+        "func": "// AI Latency Tap: writes AI latency into flow context for metrics CSV.\n// Non-invasive: does not modify msg.payload or msg.meta required by dashboard.\n\ntry {\n    const lat = (msg.meta && msg.meta.latency_ms !== undefined) ? Number(msg.meta.latency_ms) : null;\n\n    if (lat !== null && !isNaN(lat) && lat >= 0) {\n        flow.set(\"last_ai_latency_ms\", lat);\n        flow.set(\"last_ai_latency_ts\", (msg.meta && msg.meta.t1) ? msg.meta.t1 : Date.now());\n    }\n    } catch (e) {}\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1980,
+        "y": 540,
+        "wires": [
+            [
+                "95e0502ce8c00622"
+            ]
+        ]
+    },
+    {
+        "id": "95e0502ce8c00622",
+        "type": "debug",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "debug AI Latency Tap (flow write)",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1980,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "261408696a309aa4",
+        "type": "function",
+        "z": "tab1",
+        "g": "d938aa8fdac1ae6e",
+        "name": "Build Recommendation (LOCKED)",
+        "func": "const pred = (msg.ai && msg.ai.prediction) ? String(msg.ai.prediction).toUpperCase() : \"UNKNOWN\";\n\nlet rec = \"\";\nif (pred === \"NORMAL\") rec = \"Parking available. Normal traffic.\";\nelse if (pred === \"BUSY\") rec = \"Moderate congestion. Consider alternate slot/entry.\";\nelse if (pred === \"CRITICAL\") rec = \"Lot near/full. Redirect to nearest parking.\";\nelse rec = \"AI unavailable. Using sensor-only status.\";\n\nmsg.ai = msg.ai || {};\nmsg.ai.recommendation = rec;\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1520,
+        "y": 640,
+        "wires": [
+            [
+                "c93ce782bbb29818",
+                "4c6596a83e31f9e3",
+                "05b061e5694aaa49"
+            ]
+        ]
+    },
+    {
+        "id": "7ad1ab81b2d7f1ab",
+        "type": "function",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "Extract Barrier Status",
+        "func": "// Expect msg.payload is an object (already parsed JSON)\nconst p = msg.payload || {};\nmsg.payload = p.barrier || \"UNKNOWN\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1720,
+        "y": 180,
+        "wires": [
+            [
+                "a8a808d52a2e04f0"
+            ]
+        ]
+    },
+    {
+        "id": "a8a808d52a2e04f0",
+        "type": "ui_text",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "group": "grp1",
+        "order": 3,
+        "width": "4",
+        "height": "1",
+        "name": "",
+        "label": "Barrier",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1710,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "07289f5d1cfd0155",
+        "type": "file",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "ch4/throughput/throughput_log.csv",
+        "filename": "/home/user/results/ch4/throughput/throughput_log.csv",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "utf8",
+        "x": 1540,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ad522c9845a778c7",
+        "type": "function",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "Start_E2E_Timer",
+        "func": "msg.meta = msg.meta || {};\nmsg.meta.e2e_t0 = Date.now();\n\n// capture scenario once\nmsg.meta.scenario = msg.meta.scenario || flow.get(\"active_scenario\") || \"UNK\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 570,
+        "y": 220,
+        "wires": [
+            [
+                "json1"
+            ]
+        ]
+    },
+    {
+        "id": "54031ab010adc997",
+        "type": "file",
+        "z": "tab1",
+        "g": "d938aa8fdac1ae6e",
+        "name": "ch4/raw/e2e_latency_log.csv",
+        "filename": "/home/user/results/ch4/raw/e2e_latency_log.csv",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "utf8",
+        "x": 1960,
+        "y": 780,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6be920c2ecc33260",
+        "type": "function",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "tp_to_CSV",
+        "func": "const ts = new Date().toISOString();\nconst scenario = msg.meta?.scenario || flow.get(\"active_scenario\") || \"UNK\";\n\n// Optional tags (keep consistent with your chapter tables)\nconst deployment = scenario.startsWith(\"S1\") || scenario.startsWith(\"S2\") ? \"simulation\" : \"hardware\";\nconst security   = (msg.meta?.mode || \"\").includes(\"sec\") ? \"tls\" : \"nonsec\";\n\nconst rate = msg.tp_mps ?? msg.payload ?? 0;\n\nmsg.payload = [ts, scenario, deployment, security, rate].join(\",\") + \"\\n\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1290,
+        "y": 520,
+        "wires": [
+            [
+                "a1416c26bf026e44",
+                "07289f5d1cfd0155"
+            ]
+        ]
+    },
+    {
+        "id": "a1416c26bf026e44",
+        "type": "file",
+        "z": "tab1",
+        "g": "dd711467785475b6",
+        "name": "ch4/throughput/throughput.csv",
+        "filename": "/home/user/results/ch4/throughput/throughput.csv",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "utf8",
+        "x": 1530,
+        "y": 540,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "eb559bd7f61dc9a7",
+        "type": "inject",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "Inject (every 1s or 5s)",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "30",
+        "topic": "",
+        "x": 140,
+        "y": 440,
+        "wires": [
+            [
+                "45fbeb5aa0e8cab6"
+            ]
+        ]
+    },
+    {
+        "id": "45fbeb5aa0e8cab6",
+        "type": "exec",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "command": "bash -lc 'read cpu u1 n1 s1 i1 w1 irq1 sirq1 st1 g1 gn1 < /proc/stat; t1=$((u1+n1+s1+i1+w1+irq1+sirq1+st1)); id1=$((i1+w1)); sleep 0.2; read cpu u2 n2 s2 i2 w2 irq2 sirq2 st2 g2 gn2 < /proc/stat; t2=$((u2+n2+s2+i2+w2+irq2+sirq2+st2)); id2=$((i2+w2)); dt=$((t2-t1)); did=$((id2-id1)); cpu=$(awk -v dt=$dt -v did=$did \"BEGIN{ if(dt<=0) print \\\"0.0\\\"; else printf \\\"%.1f\\\", (100*(dt-did)/dt)}\"); mem=$(free -m | awk \"/^Mem:/{print \\$3}\"); echo \"$cpu,$mem\"'",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "exec (CPU/mem)",
+        "x": 130,
+        "y": 500,
+        "wires": [
+            [
+                "bfbfac3fbbcb700d"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "cf72206cf00d6359",
+        "type": "function",
+        "z": "tab1",
+        "g": "d938aa8fdac1ae6e",
+        "name": "Set payload to e2e csv",
+        "func": "msg.payload = msg.e2e_csv_line || \"\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1700,
+        "y": 780,
+        "wires": [
+            [
+                "54031ab010adc997"
+            ]
+        ]
+    },
+    {
+        "id": "bfbfac3fbbcb700d",
+        "type": "function",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "Attach scenario + build CSV",
+        "func": "const ts = new Date().toISOString();\nconst scenario = flow.get(\"activeScenario\") || \"ALL\";\n\n// stdout from exec should be \"cpu,mem\"\nconst out = (msg.payload || \"\").toString().trim();\nif (!out.includes(\",\")) return null;\n\nmsg.payload = `${ts},${scenario},${out}`;   // file node appends newline\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 380,
+        "y": 500,
+        "wires": [
+            [
+                "14dad06dedf0ab3d"
+            ]
+        ]
+    },
+    {
+        "id": "14dad06dedf0ab3d",
+        "type": "file",
+        "z": "tab1",
+        "g": "1510ddad0e2d096b",
+        "name": "ch4/raw/resource_log.csv",
+        "filename": "/home/user/results/ch4/security/resource_log.csv",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "utf8",
+        "x": 650,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "899e2da869555d90",
+        "type": "function",
+        "z": "tab1",
+        "g": "d938aa8fdac1ae6e",
+        "name": "Stop_E2E_Timer/Build E2E CSV",
+        "func": "// Stop E2E timer and build CSV line WITHOUT touching msg.payload\n\nmsg.meta = msg.meta || {};\nmsg.meta.e2e_t1 = Date.now();\n\nconst ts = new Date(msg.meta.e2e_t1).toISOString();\nconst e2e_ms = msg.meta.e2e_t0 ? (msg.meta.e2e_t1 - msg.meta.e2e_t0) : \"\";\n\n// Use your existing fields (adjust only if you used different naming)\nconst run_id   = msg.meta.run_id || flow.get(\"run_id\") || \"\";\nconst scenario = msg.meta.scenario || flow.get(\"active_scenario\") || \"UNK\";\nconst mode     = msg.meta.mode || \"unknown\";\n\n// AI-only latency if available (C3)\nconst ai_ms = (msg.meta.ai_latency_ms !== undefined) ? msg.meta.ai_latency_ms : (flow.get(\"last_ai_latency_ms\") ?? \"\");\n\n// store CSV line in a side field\nmsg.e2e_csv_line = [ts, run_id, scenario, mode, e2e_ms, ai_ms].join(\",\") + \"\\n\";\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1440,
+        "y": 780,
+        "wires": [
+            [
+                "cf72206cf00d6359"
+            ]
+        ]
+    },
+    {
+        "id": "c93ce782bbb29818",
+        "type": "debug",
+        "z": "tab1",
+        "g": "b8db2ce3c6194a3a",
+        "name": "AFTER Build Recommendation",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1850,
+        "y": 1040,
+        "wires": []
+    },
+    {
+        "id": "1f9cc43836232f1d",
+        "type": "function",
+        "z": "tab1",
+        "g": "d938aa8fdac1ae6e",
+        "name": "AI Aggregator + Hold (LOCKED)",
+        "func": "// AI Hold + Worst-Across-Streams (LOCKED)\n// - Never returns null (so UI cannot be overwritten by other paths)\n// - Holds worst label for HOLD_MS even if later NORMAL arrives\n// - Works across multiple topics (sim/hw, sec/nonsec)\n\nconst HOLD_MS = 30000; // 30s (stable). You can reduce later to 15000.\nconst sev = { NORMAL: 0, BUSY: 1, CRITICAL: 2 };\nconst now = Date.now();\n\n// Read incoming prediction if present\nconst incomingRaw = (msg.ai?.prediction ?? msg.payload?.prediction ?? null);\nconst incoming = incomingRaw ? String(incomingRaw).toUpperCase() : null;\n\n// Load hold state\nlet held = flow.get(\"ai_held_label\") || \"NORMAL\";\nlet heldTs = flow.get(\"ai_held_ts\") || 0;\n\n// Update hold state only if incoming is valid label\nif (incoming && (incoming in sev)) {\n  // If upgrade or same severity -> accept immediately and reset timer\n  if (sev[incoming] >= sev[held]) {\n    held = incoming;\n    heldTs = now;\n  } else {\n    // downgrade only if hold time expired\n    if ((now - heldTs) >= HOLD_MS) {\n      held = incoming;\n      heldTs = now;\n    }\n  }\n}\n\n// Persist hold state\nflow.set(\"ai_held_label\", held);\nflow.set(\"ai_held_ts\", heldTs);\n\n// FORCE outgoing prediction to held label (always)\nmsg.ai = msg.ai || {};\nmsg.ai.prediction = held;\n\n// Optional debug fields (won’t affect UI)\nmsg.ai._incoming = incoming;\nmsg.ai._held_age_ms = now - heldTs;\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1470,
+        "y": 680,
+        "wires": [
+            [
+                "261408696a309aa4"
+            ]
+        ]
+    },
+    {
+        "id": "broker1",
+        "type": "mqtt-broker",
+        "name": "local-broker-sim-8883-tls",
+        "broker": "localhost",
+        "port": "8883",
+        "tls": "be1bb55661307b3f",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": true,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "grp1",
+        "type": "ui_group",
+        "name": "Main Parking Status",
+        "tab": "tabDash",
+        "order": 1,
+        "disp": true,
+        "width": "4",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "083ed53a107de782",
+        "type": "ui_group",
+        "name": "AI Output",
+        "tab": "tabDash",
+        "order": 3,
+        "disp": true,
+        "width": "4",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "9bab2561ef079905",
+        "type": "mqtt-broker",
+        "name": "local-broker-sim-1883",
+        "broker": "localhost",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "3df3b8eeb704c6cb",
+        "type": "mqtt-broker",
+        "name": "local-broker-hw-8883-tls",
+        "broker": "localhost",
+        "port": "8883",
+        "tls": "be1bb55661307b3f",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": true,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "ebc599c0e04f75b9",
+        "type": "mqtt-broker",
+        "name": "local-broker-hw-1883",
+        "broker": "localhost",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "3c0d4601010d3d81",
+        "type": "ui_group",
+        "name": "Security Output",
+        "tab": "tabDash",
+        "order": 2,
+        "disp": true,
+        "width": "4",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "169f8235595f80aa",
+        "type": "ui_group",
+        "name": "Utilisation",
+        "tab": "tabDash",
+        "order": 4,
+        "disp": true,
+        "width": "4",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "be1bb55661307b3f",
+        "type": "tls-config",
+        "name": "",
+        "cert": "",
+        "key": "",
+        "ca": "/home/user/.node-red/certs/ca.crt",
+        "certname": "",
+        "keyname": "",
+        "caname": "",
+        "servername": "",
+        "verifyservercert": true,
+        "alpnprotocol": ""
+    },
+    {
+        "id": "tabDash",
+        "type": "ui_tab",
+        "name": "Parking",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "9c4ad5f3a8c4acfd",
+        "type": "global-config",
+        "env": [],
+        "modules": {
+            "node-red-dashboard": "3.6.6"
+        }
+    }
+]

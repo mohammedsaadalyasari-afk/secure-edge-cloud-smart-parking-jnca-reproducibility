@@ -1,0 +1,8 @@
+fastapi
+gunicorn
+uvicorn[standard]
+joblib
+scikit-learn
+python-dotenv
+azure-storage-blob
+azure-identity

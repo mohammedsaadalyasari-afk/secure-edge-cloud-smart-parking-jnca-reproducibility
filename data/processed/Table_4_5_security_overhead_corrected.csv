@@ -1,0 +1,3 @@
+comparison,Latency_pct,Throughput_pct,Inference_pct,CPU_pct,Memory_pct
+Simulation secure over non-secure (S2 vs S1),21.3616841,4.051877596,12.2811571,523.6799197,2.435227399
+Hardware secure over non-secure (S4 vs S3),32.80319315,3.634013215,267.7352818,22.28506787,0.99631521
